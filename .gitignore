@@ -4,3 +4,4 @@ __pycache__/
 tests/
 app/__pycache__
 app/_temp_*
+.env
